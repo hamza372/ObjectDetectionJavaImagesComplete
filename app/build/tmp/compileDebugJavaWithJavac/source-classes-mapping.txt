@@ -1,0 +1,9 @@
+com/example/objectdetection/MainActivity.java
+ com.example.objectdetection.MainActivity
+ com.example.objectdetection.MainActivity$1
+ com.example.objectdetection.MainActivity$2
+com/example/objectdetection/Classifier.java
+ com.example.objectdetection.Classifier
+ com.example.objectdetection.Classifier$Recognition
+com/example/objectdetection/BuildConfig.java
+ com.example.objectdetection.BuildConfig
